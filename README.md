@@ -1,99 +1,101 @@
-# trudium
+<div align="center">
 
-**Engineering Digital Products with Precision, Scale, and Trust**
+<h1 style="margin-bottom: 6px;">Trudium</h1>
 
-trudium is a technology-focused development company delivering high-quality software solutions across multiple domains. We work with startups, enterprises, and agencies worldwide to design, build, optimize, and scale digital products that perform reliably in real-world conditions.
+<p style="font-size: 16px; max-width: 720px; margin: 0 auto;">
+Engineering scalable, reliable software systems with precision and trust
+</p>
 
-With a multidisciplinary team of experienced engineers, we cover the full spectrum of modern software development — from concept to deployment and long-term support.
+<hr style="width:60%; margin: 24px auto;"/>
+
+</div>
+
+## Overview
+
+trudium is a technology-driven software development company delivering production-grade solutions across multiple engineering domains. We partner with startups, enterprises, and agencies to design, build, and scale digital products that perform reliably under real-world conditions.
+
+Our multidisciplinary engineering team covers the full software lifecycle — from system design and development to deployment, optimization, and long-term maintenance.
 
 ---
 
-## What We Do
+## Services
 
-We provide end-to-end development services across the following domains:
+### Web Engineering
+- Custom web applications and platforms  
+- Frontend and backend development  
+- WordPress, headless CMS, and custom frameworks  
+- Performance optimization and SEO-ready architectures  
 
-### 🌐 Web Development
-- Custom web applications
-- Frontend & backend engineering
-- WordPress, headless CMS, custom frameworks
-- Performance optimization & SEO-ready architectures
+### Mobile Application Development
+- Native and cross-platform mobile applications  
+- Scalable backend and API integrations  
+- Performance, stability, and maintainability optimization  
 
-### 📱 Mobile App Development
-- Android & iOS applications
-- Cross-platform solutions
-- Scalable backend integrations
-- App performance and stability optimization
+### Game Development
+- Unity-based PC and multiplayer games  
+- Real-time networking (Fish-Net, Photon, and custom solutions)  
+- Gameplay systems, UI/UX implementation, and optimization  
+- 2D and 3D stylized and cartoon art pipelines  
 
-### 🎮 Game Development
-- Unity-based PC and multiplayer games
-- Real-time networking (Fish-Net, Photon, custom solutions)
-- Gameplay systems, UI/UX, and optimization
-- 2D/3D cartoon and stylized art pipelines
+### Artificial Intelligence & Machine Learning
+- AI chatbots and intelligent assistants  
+- LLM integrations, RAG pipelines, and automation systems  
+- Natural language processing and recommendation systems  
+- AI-powered business workflows  
 
-### 🤖 AI & Machine Learning
-- AI chatbots and intelligent agents
-- LLM integrations (RAG, automation, assistants)
-- NLP, recommendation systems, predictive models
-- AI-powered business workflows
+### Blockchain & Web3
+- Decentralized applications (DApps)  
+- Smart contract development and integration  
+- Wallet connectivity (MetaMask, Web3.js)  
+- Secure blockchain-based platforms  
 
-### ⛓️ Blockchain & Web3
-- DApps and smart contracts
-- Wallet integrations (MetaMask, Web3.js)
-- Secure contract interactions
-- Blockchain-based platforms and tooling
-
-### ⚙️ Automation & Scraping
-- Data scraping pipelines
-- Workflow automation
-- API integrations
-- Scalable, maintainable automation systems
+### Automation & Data Engineering
+- Data scraping and processing pipelines  
+- Workflow and business process automation  
+- API integrations and system orchestration  
+- Scalable and maintainable automation solutions  
 
 ---
 
 ## Why trudium
 
-- ✅ **Experienced team across multiple niches**
-- ✅ **50+ successfully delivered projects** via Fiverr, Upwork, and direct clients
-- ✅ **Proven trust with long-term clients**
-- ✅ Clean, maintainable, and documented codebases
-- ✅ Production-ready solutions, not prototypes
-- ✅ Clear communication and structured delivery
+- Experienced engineers across multiple technical disciplines  
+- 50+ successfully delivered projects via Fiverr, Upwork, and direct clients  
+- Proven record of long-term client trust and retention  
+- Clean, maintainable, and well-documented codebases  
+- Production-ready systems designed for scale and performance  
+- Clear communication and structured delivery  
 
-We don’t just write code — we build systems that last.
+We focus on building systems that are reliable, maintainable, and ready for real-world use.
 
 ---
 
-## Our Approach
+## Engineering Principles
 
-- Requirement-driven development
-- Clean architecture & reusable components
-- Security and performance first
-- Transparent communication
-- Documentation and long-term maintainability
-
-Every project is handled with the same level of professionalism, regardless of size.
+- Requirement-driven development  
+- Clean architecture and reusable components  
+- Security and performance as first-class concerns  
+- Transparent communication and predictable delivery  
+- Comprehensive documentation and long-term maintainability  
 
 ---
 
 ## Collaboration
 
 We work with:
-- Startups
-- Enterprises
-- Agencies
-- Product founders
-- Technical teams needing execution support
+- Startups and early-stage founders  
+- Enterprises and internal engineering teams  
+- Agencies requiring reliable execution partners  
+- Product teams needing end-to-end delivery  
 
-We integrate smoothly into existing workflows or take full ownership of delivery.
+We integrate seamlessly into existing workflows or take full ownership of execution.
 
 ---
 
-## Get in Touch
+<div align="center">
 
-If you’re looking for a reliable engineering partner:
+<hr style="width:60%; margin: 24px auto;"/>
 
-- 📩 Reach out via GitHub
-- 🌍 Available for global clients
-- 🤝 Open to long-term partnerships
+<p><strong>Trudium</strong> — Engineering software systems that scale.</p>
 
-**trudium — Building reliable software across industries.**
+</div>
